@@ -1,0 +1,13 @@
+C:\Users\Olive\OneDrive\Documentos\Atividade Laura\Atividade Prática I\bin\Debug\netcoreapp3.1\Atividade Prática I.exe
+C:\Users\Olive\OneDrive\Documentos\Atividade Laura\Atividade Prática I\bin\Debug\netcoreapp3.1\Atividade Prática I.deps.json
+C:\Users\Olive\OneDrive\Documentos\Atividade Laura\Atividade Prática I\bin\Debug\netcoreapp3.1\Atividade Prática I.runtimeconfig.json
+C:\Users\Olive\OneDrive\Documentos\Atividade Laura\Atividade Prática I\bin\Debug\netcoreapp3.1\Atividade Prática I.runtimeconfig.dev.json
+C:\Users\Olive\OneDrive\Documentos\Atividade Laura\Atividade Prática I\bin\Debug\netcoreapp3.1\Atividade Prática I.dll
+C:\Users\Olive\OneDrive\Documentos\Atividade Laura\Atividade Prática I\bin\Debug\netcoreapp3.1\Atividade Prática I.pdb
+C:\Users\Olive\OneDrive\Documentos\Atividade Laura\Atividade Prática I\obj\Debug\netcoreapp3.1\Atividade Prática I.csprojAssemblyReference.cache
+C:\Users\Olive\OneDrive\Documentos\Atividade Laura\Atividade Prática I\obj\Debug\netcoreapp3.1\Atividade Prática I.AssemblyInfoInputs.cache
+C:\Users\Olive\OneDrive\Documentos\Atividade Laura\Atividade Prática I\obj\Debug\netcoreapp3.1\Atividade Prática I.AssemblyInfo.cs
+C:\Users\Olive\OneDrive\Documentos\Atividade Laura\Atividade Prática I\obj\Debug\netcoreapp3.1\Atividade Prática I.csproj.CoreCompileInputs.cache
+C:\Users\Olive\OneDrive\Documentos\Atividade Laura\Atividade Prática I\obj\Debug\netcoreapp3.1\Atividade Prática I.dll
+C:\Users\Olive\OneDrive\Documentos\Atividade Laura\Atividade Prática I\obj\Debug\netcoreapp3.1\Atividade Prática I.pdb
+C:\Users\Olive\OneDrive\Documentos\Atividade Laura\Atividade Prática I\obj\Debug\netcoreapp3.1\Atividade Prática I.genruntimeconfig.cache
