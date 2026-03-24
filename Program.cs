@@ -6,7 +6,6 @@ namespace AtividadeAcademia
 {
     class Program
     {
-        // Listas paralelas conforme solicitado
         static List<string> name = new List<string>();
         static List<string> muscGp = new List<string>();
         static List<double> load = new List<double>();
